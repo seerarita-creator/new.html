@@ -1,0 +1,32 @@
+ h1{
+    color: blue;
+    font-size: larger;
+    block-size: auto;
+    background-color: pink;
+    font-family: 'Courier New', Courier, monospace;
+ }
+ body{
+    font-size: larger;
+    font-style: italic;
+    word-spacing: normal;
+    color: black;
+    background-color:papayawhip;
+
+ }
+ #p1{
+    color: blue;
+ }
+
+ ul{
+    word-spacing:normal;
+    font-size: medium;
+    font-style: italic;
+    background-image: none;
+    
+ }
+ header{
+    background-color: chocolate;
+ }
+ footer{
+    background-color: chocolate;
+ }
